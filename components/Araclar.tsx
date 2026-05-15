@@ -41,15 +41,6 @@ const araclar = [
     aciklama: "Otomatik, Benzin, Lacivert, Hasar Kayıtsız. Bose ses sistemi, deri döşeme.",
   },
   {
-    id: 5,
-    baslik: "Range Rover Sport",
-    kategori: "lüks",
-    resim: "/images/range-rover.webp",
-    yil: 2022,
-    km: "78.000 km",
-    aciklama: "Otomatik, Dizel, Siyah, Hasar Kayıtsız. Full aksesuar, meridian ses sistemi.",
-  },
-  {
     id: 6,
     baslik: "Volkswagen Passat",
     kategori: "sedan-suv",
