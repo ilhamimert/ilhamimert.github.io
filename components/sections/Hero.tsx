@@ -32,7 +32,7 @@ export function Hero() {
       {/* Gold accent line */}
       <div className="absolute top-0 left-0 w-px h-40 bg-gradient-to-b from-transparent via-gold to-transparent ml-6 md:ml-12 lg:ml-24" />
 
-      <div className="relative z-10 max-w-5xl">
+      <div className="relative z-10 max-w-5xl pt-20">
         {/* Label */}
         <div className="flex items-center gap-3 mb-8">
           <span className="w-8 h-px bg-gold" />
