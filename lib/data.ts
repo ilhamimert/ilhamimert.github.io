@@ -62,7 +62,7 @@ export const portfolio: PortfolioItem[] = [
     id: "1",
     title: "BMW 5 Serisi 520i",
     category: "web",
-    imageUrl: "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&q=80",
+    imageUrl: "/images/bmw-520i.jpg",
     year: 2022,
     client: "185.000 km",
     description: "Otomatik, Benzin, Gri, Hasar Kayıtsız. Servis bakımlı, ilk sahibinden.",
