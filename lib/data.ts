@@ -61,7 +61,7 @@ export const portfolio: PortfolioItem[] = [
   {
     id: "1",
     title: "BMW 5 Serisi 520i",
-    category: "web",
+    category: "branding",
     imageUrl: "/images/bmw-520i.jpg",
     year: 2022,
     client: "185.000 km",
@@ -79,7 +79,7 @@ export const portfolio: PortfolioItem[] = [
   {
     id: "3",
     title: "Audi A6 3.0 TDI",
-    category: "web",
+    category: "branding",
     imageUrl: "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&q=80",
     year: 2021,
     client: "210.000 km",
@@ -88,7 +88,7 @@ export const portfolio: PortfolioItem[] = [
   {
     id: "4",
     title: "Porsche Cayenne",
-    category: "kampanya",
+    category: "branding",
     imageUrl: "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80",
     year: 2022,
     client: "95.000 km",
@@ -106,7 +106,7 @@ export const portfolio: PortfolioItem[] = [
   {
     id: "6",
     title: "Toyota Corolla Cross",
-    category: "branding",
+    category: "web",
     imageUrl: "/images/toyota-cross.jpg",
     year: 2023,
     client: "28.000 km",
@@ -124,7 +124,7 @@ export const portfolio: PortfolioItem[] = [
   {
     id: "8",
     title: "Tesla Model 3",
-    category: "motion",
+    category: "web",
     imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
     year: 2023,
     client: "35.000 km",

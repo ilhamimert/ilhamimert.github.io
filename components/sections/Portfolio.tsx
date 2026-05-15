@@ -13,7 +13,6 @@ const categories = [
   { key: "branding", label: "Lüks" },
   { key: "web", label: "Sedan & SUV" },
   { key: "kampanya", label: "Büyük SUV" },
-  { key: "motion", label: "Elektrik" },
 ] as const;
 
 function PortfolioCard({ item, index }: { item: PortfolioItem; index: number }) {
