@@ -146,7 +146,7 @@ export const team: TeamMember[] = [
     name: "Serkan Yıldız",
     role: "Kıdemli Satış Danışmanı",
     bio: "8 yıllık deneyimiyle premium segment uzmanı. BMW, Mercedes ve Audi konusunda derin bilgi sahibi.",
-    avatarUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    avatarUrl: "/images/team-satis.jpg",
     social: { linkedin: "#", instagram: "#" },
   },
   {
@@ -162,7 +162,7 @@ export const team: TeamMember[] = [
     name: "Murat Demir",
     role: "Ekspertiz Uzmanı",
     bio: "Oto ekspertiz sertifikalı teknisyen. 15 yıllık deneyimiyle her araçtaki gizli sorunu tespit eder.",
-    avatarUrl: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+    avatarUrl: "/images/team-ekspertiz.jpg",
     social: { linkedin: "#" },
   },
 ];
