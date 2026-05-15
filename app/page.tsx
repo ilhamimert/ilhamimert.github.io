@@ -1,25 +1,25 @@
-import { Navbar } from "@/components/sections/Navbar";
-import { Hero } from "@/components/sections/Hero";
-import { Services } from "@/components/sections/Services";
-import { Portfolio } from "@/components/sections/Portfolio";
-import { Team } from "@/components/sections/Team";
-import { Testimonials } from "@/components/sections/Testimonials";
-import { Contact } from "@/components/sections/Contact";
-import { Reservation } from "@/components/sections/Reservation";
-import { Footer } from "@/components/sections/Footer";
+import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
+import Hizmetler from "../components/Hizmetler";
+import Araclar from "../components/Araclar";
+import Ekip from "../components/Ekip";
+import Yorumlar from "../components/Yorumlar";
+import Iletisim from "../components/Iletisim";
+import Randevu from "../components/Randevu";
+import Footer from "../components/Footer";
 
 export default function Home() {
   return (
-    <main>
+    <div>
       <Navbar />
       <Hero />
-      <Services />
-      <Portfolio />
-      <Team />
-      <Testimonials />
-      <Contact />
-      <Reservation />
+      <Hizmetler />
+      <Araclar />
+      <Ekip />
+      <Yorumlar />
+      <Iletisim />
+      <Randevu />
       <Footer />
-    </main>
+    </div>
   );
 }
